@@ -37,6 +37,25 @@ Config.Descriptions = {
 	["garbage"] = "Drive a garbage truck",
 	["vineyard"] = "Get them vines",
 	["hotdog"] = "Sell them glizzys",
+	["mechanicmarc"] = "Marc Hill Autos",
+	["mechanicjonno"] = "Jono Autos",
+	["tuner"] = "Tuner Store",
+	["burgershot"] = "Burger Shot",
+	["billiards"] = "Billiards Bar",
+	["triadrecords"] = "Triad Records",
+	["yiannimize"] = "Yiannimize",
+	["whitewidow"] = "White Widow",
+	["bestbuds"] = "Best Buds",
+	["upnatom"] = "Up N Atom",
+	["hornys"] = "Hornys",
+	["mamas"] = "Bahama Mamas",
+	["cityhall"] = "City Hall",
+	["b50visuals"] = "British 50 Visuals",
+	["casino"] = "Casino",
+	["armoury"] = "Armoury",
+	["vanilla"] = "Vanilla Unicorn",
+	["beanmachine"] = "Bean Machine",
+
 }
 
 -- Change the icons to any free font awesome icon, also add other jobs your server might have to the list
